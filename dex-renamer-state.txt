@@ -1,0 +1,7 @@
+#Thu Sep 07 11:28:03 IST 2023
+base.1=C\:\\Users\\kmsha\\Downloads\\measure-stress-hrv-android-master\\measure-stress-hrv-android-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.1=classes.dex
+base.0=C\:\\Users\\kmsha\\Downloads\\measure-stress-hrv-android-master\\measure-stress-hrv-android-master\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
